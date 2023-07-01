@@ -13,8 +13,10 @@ Also, sometimes people like to use the terminal to do things.
 1. `git clone` this repository
 2. `cd` into the repository
 3. build artifacts using IntelliJ.
-
+---
   *See: https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#package*
+
+---
 4. `cd` into the `out/artifacts/medit8_jar` directory
 5. `java -jar medit8.jar`
 
