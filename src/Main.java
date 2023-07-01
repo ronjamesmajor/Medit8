@@ -59,7 +59,7 @@ public class Main {
             }
         }
 
-        public static void TestInput(String input){
+        public static void TestInput(@org.jetbrains.annotations.NotNull String input){
             //check if the user input is a number using Regex.
             if (input.matches("[0-9]+")) {
                 //convert the user input to an integer.
